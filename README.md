@@ -1,4 +1,4 @@
-# PG's Near By
+# Near-By-Pgs
 
 This is a project for finding nearby PG's college.
 
